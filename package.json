@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jeremiasramirez/templateAngularJS/issues"
   },
-  "homepage": "https://github.com/jeremiasramirez/templateAngularJS#readme"
+  "homepage": "https://github.com/jeremiasramirez/templateAngularJS#readme",
+  "dependencies": {
+    "angular": "^1.7.9",
+    "angular-route": "^1.7.9",
+    "jeremias-easydom": "^1.0.1",
+    "jeremias-lib": "^1.1.7"
+  }
 }
